@@ -9,4 +9,19 @@ idées
   - stocker les informations dans une db
 
 Outils
-- Utiliser React
+- React
+- Tailwind
+- Supabase
+
+Fonctionnalités
+- Rechercher un anime
+- Ajouter un anime dans les favoris
+- Ajouter un lien de visionnage
+- Ajouter des notes ou marquer les épisodes marquants
+- Partager sa liste de favoris
+
+Défis
+- Mettre en place un systeme d'authentification
+- Trouver des APIs 
+  - Animes
+
