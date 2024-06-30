@@ -31,4 +31,4 @@ Défis
 
 Ui sketch for v1
 
-![UI mockup](./src/assets/Bookmarked app ui sketch (v1).png)
+![UI mockup](./src/assets/Bookmarked%20app%20ui%20sketch%20(v1).png)
