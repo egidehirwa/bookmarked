@@ -28,3 +28,7 @@ Défis
 ## Project setup
 
 [Sitemap](https://www.figma.com/board/KXWKEw8IqaBsEagruqrS5m/Bookmarked?node-id=0-1&t=uP7lDowo1oX97nF0-1) 
+
+Ui sketch for v1
+
+![UI mockup](./src/assets/Bookmarked app ui sketch (v1).png)
