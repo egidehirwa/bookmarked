@@ -1,14 +1,16 @@
 import './index.css';
 import './App.css'
 import Header from './components/Header';
-import Select from './components/Select';
+import Main from './components/Main';
 
 function App() {
 
   return (
     <>
-      <Header></Header>
-      <Select></Select>
+      <section className="min-h-screen flex-col justify-between">
+        <Header></Header>
+        <Main></Main>
+      </section>
     </>
   )
 }
