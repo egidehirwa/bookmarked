@@ -2,30 +2,25 @@
 
 ## Projet description
 
-idées
-- Un site bookmark pour mes animes et manhwa préférés
-  - Utiliser des APIs diffe2rents pour afficher les animes, films et manhwas
-  - avoir un systeme de filtrage
-  - stocker les informations dans une db
+Bookmark your favorite animes and find the most noteworthy episodes by marking them as rewatchable.
 
-Outils
-- React
-- Tailwind
-- Supabase
+## Tech used
+[] React
+[] tailwind
+[] db (supabase, pocketbase) ?
 
-Fonctionnalités
-- Rechercher un anime
-- Ajouter un anime dans les favoris
-- Ajouter un lien de visionnage
-- Ajouter des notes ou marquer les épisodes marquants
-- Partager sa liste de favoris
+## Week 1
+[x] Project setup
+[x] Found the API l'll be using
+[x] Deploy to netlify
 
-Défis
-- Mettre en place un systeme d'authentification
-- Trouver des APIs 
-  - Animes
+## Week 2
+[] Test the API
+[] Create DOM elements from the API
+[] Emplement search functionality
 
-## Project setup
+
+
 
 [Sitemap](https://www.figma.com/board/KXWKEw8IqaBsEagruqrS5m/Bookmarked?node-id=0-1&t=uP7lDowo1oX97nF0-1) 
 
